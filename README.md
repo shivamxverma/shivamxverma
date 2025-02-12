@@ -7,21 +7,6 @@
 
 <hr />
 
-### 🔭 Current Projects
-- **[DevBytes-Medium](https://github.com/shivamxverma/DevBytes-medium)**
-
-<hr />
-
-### 🌱 Currently Learning
-- WebSockets, Redis, Kafka
-
-<hr />
-
-### 💬 Ask Me About
-- React, Databases, TypeScript
-
-<hr />
-
 ### 📫 How to Reach Me
 - Email: [shivam.verma.shiva.99@gmail.com](mailto:shivam.verma.shiva.99@gmail.com)
 
