@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Verma</h1>
+<h1 align="center">Hi there, I'm Shivam Verma 👋</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="center">
@@ -10,14 +10,22 @@
 ### 🔭 Current Projects
 - **[DevBytes-Medium](https://github.com/shivamxverma/DevBytes-medium)**
 
+<hr />
+
 ### 🌱 Currently Learning
 - WebSockets, Redis, Kafka
+
+<hr />
 
 ### 💬 Ask Me About
 - React, Databases, TypeScript
 
+<hr />
+
 ### 📫 How to Reach Me
-- [shivam.verma.shiva.99@gmail.com](mailto:shivam.verma.shiva.99@gmail.com)
+- Email: [shivam.verma.shiva.99@gmail.com](mailto:shivam.verma.shiva.99@gmail.com)
+
+<hr />
 
 ### ⚡ Fun Fact
 - I think I am funny 😄
@@ -35,7 +43,7 @@
   <a href="https://codeforces.com/profile/mahavircoder" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/mahavircoder/" target="_blank">
+  <a href="https://leetcode.com/mahavircoder/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
