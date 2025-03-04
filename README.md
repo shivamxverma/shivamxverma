@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-host.com/your-banner.png" alt="Shivam Verma - Backend Developer" width="100%" />
+  <img src="https://github.com/shivamxverma/assets/blob/main/main/shivamxverma.png" alt="Shivam Verma - Backend Developer" width="100%" />
 </p>
 
 <p align="center">
