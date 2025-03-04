@@ -1,110 +1,78 @@
-<h1 align="center">Hi there, I'm Shivam Verma 👋</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamxverma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Your+Name+%F0%9F%91%8B;A+Passionate+Dev+from+Your+Location;Building+Cool+Stuff+with+a+Smile+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
-<hr />
-
-### 📫 How to Reach Me
-- Email: [shivam.verma.shiva.99@gmail.com](mailto:shivam.verma.shiva.99@gmail.com)
-
-<hr />
-
-### ⚡ Fun Fact
-- I think I am funny 😄
-
-<hr />
-
-### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivamv99/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/mahavir99" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/mahavircoder" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/mahavircoder/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Coding+24%2F7-blue?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Open+to-Collabs+%26+Chai-brightgreen?style=for-the-badge" alt="Open to Collabs" />
 </p>
 
-<hr />
+---
 
-### 🛠️ Languages & Tools
+### 🚀 About Me
+- 🎯 **Your Role** | Building awesome things with a dash of creativity 😎  
+- 🌍 Based in **Your Location**, solving problems globally  
+- ⚡ **Fun Fact**: I debug code faster than I drink coffee (almost)  
+- 📫 Hit me up: **[your.email@gmail.com](mailto:your.email@gmail.com)**  
+- 💡 **Up for**: Collabs, code reviews, or just geeky chats!
+
+---
+
+### 🌟 My Skill Set
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Languages-Python%20|%20Java%20|%20JS-blue?style=flat-square&logo=python" alt="Languages" />
+  <img src="https://img.shields.io/badge/Frameworks-Django%20|%20React%20|%20Spring-green?style=flat-square&logo=react" alt="Frameworks" />
+  <img src="https://img.shields.io/badge/Databases-MySQL%20|%20MongoDB%20|%20Redis-red?style=flat-square&logo=mongodb" alt="Databases" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20AWS%20|%20CI%2FCD-orange?style=flat-square&logo=docker" alt="DevOps" />
 </p>
 
-<hr />
+---
 
-### 📊 GitHub Stats
+### 🛠️ Tech I Love
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamxverma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python: Scripting & More" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker: Container Magic" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" title="AWS: Cloud Power" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" title="React: UI Wizardry" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" title="Git: Version Control" /></a>
 </p>
+
+---
+
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamxverma&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+### 📊 Coding Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamxverma" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📅 My GitHub Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/your-username" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎉 Vibe Check
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding GIF" />
+  <br><i>"Code hard, laugh harder." – Me</i>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/your-username?tab=repositories"><img src="https://img.shields.io/badge/Check+Out+My+Repos-Click+Here-brightgreen?style=for-the-badge" alt="Explore Repos" /></a>
 </p>
