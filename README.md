@@ -60,7 +60,7 @@
 
 ### 📅 My GitHub Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/your-username" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/shivamxverma" alt="Contribution Graph" />
 </p>
 
 ---
