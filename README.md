@@ -51,9 +51,9 @@
 
 ### 📊 Coding Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamxverma&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamxverma&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamxverma&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
