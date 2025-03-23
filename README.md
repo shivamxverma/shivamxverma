@@ -24,14 +24,6 @@
 
 ---
 
-### 🌟 My Skill Set
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-Python%20|%20Java%20|%20JS-blue?style=flat-square&logo=python" alt="Languages" />
-  <img src="https://img.shields.io/badge/Frameworks-Django%20|%20React%20|%20Spring-green?style=flat-square&logo=react" alt="Frameworks" />
-  <img src="https://img.shields.io/badge/Databases-MySQL%20|%20MongoDB%20|%20Redis-red?style=flat-square&logo=mongodb" alt="Databases" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20AWS%20|%20CI%2FCD-orange?style=flat-square&logo=docker" alt="DevOps" />
-</p>
-
 ---
 
 ### 🛠️ Tech I Love
