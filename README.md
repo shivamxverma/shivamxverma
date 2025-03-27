@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/shivamxverma/assets/blob/main/main/shivamxverma.png" alt="Shivam Verma - Backend Developer" width="100%" />
+  <img src="https://github.com/shivamxverma/assets/blob/main/main/shivamxverma.png" alt="Shivam Verma - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6¢er=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivam+Verma+%F0%9F%91%8B;A+Passionate+Backend+Dev+from+India;Building+Cool+Stuff+with+a+Smile+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6¢er=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivam+Verma+%F0%9F%91%8B;A+Passionate+FullStack+Dev+from+India;Building+Cool+Stuff+with+a+Smile+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
