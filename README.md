@@ -19,7 +19,7 @@
 - 🎯 **Backend Developer** | Building awesome things with a dash of creativity 😎  
 - 🌍 Based in **India**, solving problems globally  
 - ⚡ **Fun Fact**: I debug code faster than I drink coffee (almost)  
-- 📫 Hit me up: **[shivam.verma.shiva.99@gmail.com](mailto:shivam.verma.shiva.99@gmail.com)**  
+- 📫 Hit me up: **[shivam.verma.shiva.99@gmail.com](mailto:shivam0xverma@gmail.com)**  
 - 💡 **Up for**: Collabs, code reviews, or just geeky chats!
 
 ---
