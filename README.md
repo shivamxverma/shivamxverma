@@ -7,9 +7,6 @@ Exploring **Scaling, Redis, Docker, and Backend Engineering**.
 
 ---
 
-
----
-
 ## Tech Stack  
 
 **Languages**: C++, JavaScript, TypeScript, SQL  
