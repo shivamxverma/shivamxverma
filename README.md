@@ -1,20 +1,42 @@
+# Shivam Verma
 
-# Hi, I'm Shivam Verma  
+Backend & Systems-Focused Full Stack Developer
 
-Passionate about **Web Development, Competitive Programming, and System Design**.  
-Currently building **NoteStack** & **CodeSM**.  
-Exploring **Scaling, Redis, Docker, and Backend Engineering**.  
+I build scalable systems using:
+- Node.js
+- PostgreSQL
+- Redis
+- Docker
+- AWS
+
+## Featured Projects
+
+### CodeSM
+Distributed code execution platform using BullMQ + Docker containers.
+
+Tech:
+Node.js • Redis • Docker • PostgreSQL
+
+Highlights:
+- Persistent container execution
+- Async queue processing
+- Dead letter queues
+- Redis caching
+
+[Live Demo]
+[Architecture]
+[GitHub]
 
 ---
 
-## Tech Stack  
+### Storix
+Distributed PDF processing pipeline.
 
-**Languages**: C++, JavaScript, TypeScript, SQL  
-**Backend**: Node.js, Express, FastAPI  
-**Database**: MongoDB, PostgreSQL, Redis  
-**Frontend**: React, Next.js, TailwindCSS  
-**Others**: Docker, Drizzle ORM, Git, Vite  
+Tech:
+Next.js • FastAPI • Celery • Redis
 
----
-
-_Always building, learning, and scaling._  
+Highlights:
+- Async workers
+- WebSockets
+- S3 uploads
+- Task orchestration
